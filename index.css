@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&family=Fugaz+One&family=Heebo:wght@300&family=Inter:wght@200;300;400;500;700&family=Josefin+Sans:wght@300;700&family=Lora:ital@0;1&family=Montserrat:wght@600;700&family=Playfair+Display:ital,wght@0,600;1,500&display=swap');
+
+
+body {
+    background-image: url("/Bus\ Stop\ [3840\ x\ 2160].jpeg");
+    background-size: cover;
+    font-family: 'Epilogue', sans-serif;
+font-family: 'Fugaz One', sans-serif;
+font-family: 'Heebo', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+    
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    height: 90vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 90px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: bold;
+    width: 300px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: inherit;
+}
+
+#increment-btn {
+    background: #2c2891;
+}
+
+#save-btn {
+    background: #1c7947;
+}
+
+#save-el {
+    font-size: 40px;
+    color: rgb(27, 50, 20);
+    font-weight: 9000;
+}
+
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
